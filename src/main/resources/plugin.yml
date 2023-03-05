@@ -1,0 +1,4 @@
+name: Enchantments
+version: '${project.version}'
+main: com.seokn.enchantments.Enchantments
+api-version: 1.19
